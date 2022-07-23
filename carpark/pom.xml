@@ -101,6 +101,7 @@
             </configuration>
 			</plugin>
 		</plugins>
+		<finalName>springbootcarpark</finalName>
 	</build>
 
 </project>
